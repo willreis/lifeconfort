@@ -1,0 +1,26 @@
+/*Default*/
+.btn.btn-primary:hover {
+    border: 1px solid #3e64ff;
+    background: #3e64ffa6;
+    color: #fff;
+}
+
+/*Home*/
+.owl-carousel.home-slider .slider-item {
+    background-position: center center;
+}
+
+select.form-control option{
+    background: #3E64FE;
+    color: #fff;
+}
+
+/*Header*/
+img.logo-header {
+    width: 75%;
+}
+
+/*Footer*/
+figure img.logo-footer {
+    width: 90%;
+}

@@ -10,27 +10,27 @@
 	<!-- END nav -->
 
 	<section class="home-slider owl-carousel">
-		<div class="slider-item" style="background-image:url(images/bg_1.jpg);">
+		<div class="slider-item" style="background-image:url(images/home/bg1.jpg);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
 					<div class="col-md-7 ftco-animate mb-md-5">
-						<span class="subheading">Negotiate Consulting</span>
-						<h1 class="mb-4">We Are The Best Consulting Agency</h1>
-						<p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+						<span class="subheading">Life Confort ar condicionado e trituradores</span>
+						<h1 class="mb-4">O bem estar da sua familia</h1>
+						<p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Nossos Serviços</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
 
-		<div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+		<div class="slider-item" style="background-image:url(images/home/bg2.png);">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
 					<div class="col-md-7 ftco-animate mb-md-5">
-						<span class="subheading">Negotiate Consulting</span>
-						<h1 class="mb-4">We Help to Grow Your Business</h1>
-						<p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Our Services</a></p>
+					<span class="subheading">Life Confort ar condicionado e trituradores</span>
+						<h1 class="mb-4">O bem estar da sua familia</h1>
+						<p><a href="#" class="btn btn-primary px-4 py-3 mt-3">Nossos Serviços</a></p>
 					</div>
 				</div>
 			</div>
@@ -42,74 +42,73 @@
 			<div class="row d-flex no-gutters align-items-stretch	consult-wrap">
 				<div class="col-md-5 wrap-about align-items-stretch d-flex">
 					<div class="ftco-animate bg-primary align-self-stretch px-4 py-5 w-100">
-						<h2 class="heading-white mb-4">Free Consulting</h2>
+						<h2 class="heading-white mb-4">Faça Uma Consulta</h2>
 						<form action="#" class="appointment-form ftco-animate">
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="First Name">
+								<input type="text" class="form-control" placeholder="Nome">
 							</div>
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Last Name">
+								<input type="email" class="form-control" placeholder="Email">
 							</div>
 							<div class="form-group">
 								<div class="form-field">
 									<div class="select-wrap">
 										<div class="icon"><span class="ion-ios-arrow-down"></span></div>
 										<select name="" id="" class="form-control">
-											<option value="">Select Guidance</option>
-											<option value="">Finance</option>
-											<option value="">Business</option>
-											<option value="">Auto Loan</option>
-											<option value="">Real Estate</option>
-											<option value="">Other Services</option>
+											<option value="">Selecione o Produto</option>
+											<option value="">Ar Condicionado</option>
+											<option value="">Trituradores</option>
+											<option value="">Ar e Trituradores</option>
 										</select>
 									</div>
 								</div>
 							</div>
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Phone">
+								<input type="text" class="form-control" placeholder="Telefone">
 							</div>
 							<div class="form-group">
-								<textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
+								<textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem"></textarea>
 							</div>
 							<div class="form-group">
-								<input type="submit" value="Request A Quote" class="btn btn-secondary py-3 px-4">
+								<input type="submit" value="ENVIAR" class="btn btn-secondary py-3 px-4">
 							</div>
 						</form>
 					</div>
 				</div>
 				<div class="col-md-7 wrap-about ftco-animate align-items-stretch d-flex">
 					<div class="bg-white p-5">
-						<h2 class="mb-4">Negotiate <br>A Consulting Agency</h2>
+						<h2 class="mb-4">O bem estar da sua familia <br>É com a Life Confort</h2>
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="services">
 									<div class="icon mt-2 d-flex align-items-center"><span class="flaticon-collaboration"></span></div>
 									<div class="text media-body">
-										<h3>Business Solution</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Instalação</h3>
+										<p>Fazemos a instalação de diversas marcas de Ar Condicionado e Trituradores</p>
 									</div>
 								</div>
 								<div class="services">
-									<div class="icon mt-2"><span class="flaticon-analysis"></span></div>
+									<div class="icon mt-2"><span class="flaticon-rating"></span></div>
 									<div class="text media-body">
-										<h3>Financial Analysis</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Limpeza</h3>
+										<p>Garanta a qualidade de vida e o bem estar da sua familia, mantendo o Ar condicionado sempre limpo e higienizado</p>
 									</div>
 								</div>
 							</div>
 							<div class="col-lg-6">
 								<div class="services">
-									<div class="icon mt-2"><span class="flaticon-search-engine"></span></div>
+								<div class="icon mt-2"><span class="flaticon-handshake"></span></div>
 									<div class="text media-body">
-										<h3>Marketing Strategy</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										<h3>Trituradores</h3>
+										<p>Ajude nosso planeta com a diminuição de produção de lixo orgânico.</p>
 									</div>
 								</div>
 								<div class="services">
-									<div class="icon mt-2"><span class="flaticon-handshake"></span></div>
+								<div class="icon mt-2"><span class="flaticon-analysis"></span></div>
 									<div class="text media-body">
-										<h3>Investment Planning</h3>
-										<p>Far far away, behind the word mountains, far from the countries Vokalia.</p>
+										
+										<h3>Manutenção</h3>
+										<p>Deixe conosco a manutenção de seu Ar Condicionado e Triturador, vamos garantir o qualidade e funcionamento para eles.</p>
 									</div>
 								</div>
 							</div>
@@ -124,7 +123,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-10 text-center heading-section heading-section-white ftco-animate">
-					<h2 class="mb-0">You Always Get the Best Guidance</h2>
+					<h2 class="mb-0">Você e Sua Familia Merecem o Melhor</h2>
 				</div>
 			</div>
 		</div>
@@ -134,35 +133,35 @@
 		<div class="container consult-wrap">
 			<div class="row d-flex align-items-stretch">
 				<div class="col-md-6 wrap-about align-items-stretch d-flex">
-					<div class="img" style="background-image: url(images/about.jpg);"></div>
+					<div class="img" style="background-image: url(images/home/familia1.jpg);"></div>
 				</div>
 				<div class="col-md-6 wrap-about ftco-animate py-md-5 pl-md-5">
 					<div class="heading-section mb-4">
-						<span class="subheading">Welcome to Negotiate</span>
-						<h2>The Smartest Thing To Do With Your Consulting Business</h2>
+						<span class="subheading">Bem vindos a</span>
+						<h2>Life Confort</h2>
 					</div>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+					<p>Fazemos Instalação, manutenção e higienização em Ar Condicionado e Trituradores, garanta sempre o bem estar e conforto da sua familia</p>
 					<div class="tabulation-2 mt-4">
 						<ul class="nav nav-pills nav-fill d-md-flex d-block">
 							<li class="nav-item">
-								<a class="nav-link active py-2" data-toggle="tab" href="#home1"><span class="ion-ios-home mr-2"></span> Our Mission</a>
+								<a class="nav-link active py-2" data-toggle="tab" href="#home1"><span class="ion-ios-home mr-2"></span> Missão</a>
 							</li>
 							<li class="nav-item px-lg-2">
-								<a class="nav-link py-2" data-toggle="tab" href="#home2"><span class="ion-ios-person mr-2"></span> Our Vision</a>
+								<a class="nav-link py-2" data-toggle="tab" href="#home2"><span class="ion-ios-person mr-2"></span> Visão</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link py-2" data-toggle="tab" href="#home3"><span class="ion-ios-mail mr-2"></span> Our Value</a>
+								<a class="nav-link py-2" data-toggle="tab" href="#home3"><span class="ion-ios-mail mr-2"></span> Valores</a>
 							</li>
 						</ul>
 						<div class="tab-content bg-light rounded mt-2">
 							<div class="tab-pane container p-0 active" id="home1">
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								<p>Oferecer produtos e prestação de serviço com qualidade, rapidez e garantia.</p>
 							</div>
 							<div class="tab-pane container p-0 fade" id="home2">
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								<p>Ser a melhor empresa na prestação de serviços de ar condicionado e trituradores, buscando tecnologias e excelência no atendimento, através de treinamento dos nossos colaboradores.</p>
 							</div>
 							<div class="tab-pane container p-0 fade" id="home3">
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+								<p>Buscar um desenvolvimento sustentável através da ética, transparência e responsabilidade social.</p>
 							</div>
 						</div>
 					</div>
@@ -171,8 +170,8 @@
 							<div class="block-18">
 								<div class="icon"><span class="flaticon-doctor"></span></div>
 								<div class="text">
-									<strong class="number" data-number="1387">0</strong>
-									<span>Happy Clients</span>
+									<strong class="number" data-number="1032">0</strong>
+									<span>Clientes atendidos</span>
 								</div>
 							</div>
 						</div>
@@ -180,8 +179,8 @@
 							<div class="block-18">
 								<div class="icon"><span class="flaticon-doctor"></span></div>
 								<div class="text">
-									<strong class="number" data-number="310">0</strong>
-									<span>Success Reports</span>
+									<strong class="number" data-number="430">0</strong>
+									<span>Instalações</span>
 								</div>
 							</div>
 						</div>
@@ -189,8 +188,8 @@
 							<div class="block-18">
 								<div class="icon"><span class="flaticon-doctor"></span></div>
 								<div class="text">
-									<strong class="number" data-number="35">0</strong>
-									<span>Experienced</span>
+									<strong class="number" data-number="602">0</strong>
+									<span>Manutenções</span>
 								</div>
 							</div>
 						</div>
@@ -204,70 +203,30 @@
 		<div class="container">
 			<div class="row no-gutters justify-content-center mb-5">
 				<div class="col-md-6 text-center heading-section ftco-animate">
-					<span class="subheading">Projects Done</span>
-					<h2 class="mb-4">Case Studies</h2>
-					<p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+					<span class="subheading">Life Confort</span>
+					<h2 class="mb-4">Nossos serviços</h2>
+					<p>Confira uma breve apresentação sobre nossos serviços prestados.</p>
 					<p></p>
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-1.jpg);"></div>
+						<div class="img rounded mb-4" style="background-image: url(images/home/arcondicionado1.jpg);"></div>
 						<div class="text w-100 text-center">
-							<span class="cat">Consulting</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							<span class="cat">Instalação e Manutenção</span>
+							<h3><a href="#">Ar Condicionado</a></h3>
+							<p>Fazemos instalação, manutenção e higienização em Ar Condicionado.</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-2.jpg);"></div>
+						<div class="img rounded mb-4" style="background-image: url(images/home/triturador2.jpg);"></div>
 						<div class="text w-100 text-center">
-							<span class="cat">Marketing</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-3.jpg);"></div>
-						<div class="text w-100 text-center">
-							<span class="cat">Financing</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-4.jpg);"></div>
-						<div class="text w-100 text-center">
-							<span class="cat">Audit &amp; Taxes</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-5.jpg);"></div>
-						<div class="text w-100 text-center">
-							<span class="cat">Financing</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="project">
-						<div class="img rounded mb-4" style="background-image: url(images/project-6.jpg);"></div>
-						<div class="text w-100 text-center">
-							<span class="cat">Real Estate</span>
-							<h3><a href="#">Consultacy Solutions</a></h3>
-							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+							<span class="cat">Instalação e Manutenção</span>
+							<h3><a href="#">Trituradores</a></h3>
+							<p>Fazemos instalação e manutenção de Trituradores de Alimentos.</p>
 						</div>
 					</div>
 				</div>
@@ -275,7 +234,7 @@
 		</div>
 	</section>
 
-	<section class="ftco-section ftco-no-pt">
+	<!-- <section class="ftco-section ftco-no-pt">
 		<div class="container">
 			<div class="row justify-content-center mb-5">
 				<div class="col-md-8 text-center heading-section ftco-animate">
@@ -343,22 +302,22 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_1.jpg);">
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
-					<h2 class="mb-3 mb-md-0">You Always Get the Best Guidance</h2>
+					<h2 class="mb-3 mb-md-0">Quer saber mais sobre nossos serviços?</h2>
 				</div>
 				<div class="col-lg-3 col-md-4 ftco-animate">
-					<p class="mb-0"><a href="#" class="btn btn-secondary py-3 px-4">Request Quote</a></p>
+					<p class="mb-0"><a href="#" class="btn btn-secondary py-3 px-4">Fale Conosco</a></p>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<section class="ftco-section testimony-section">
+	<!-- <section class="ftco-section testimony-section">
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-center mb-5">
 				<div class="col-md-8 text-center heading-section ftco-animate">
@@ -444,11 +403,11 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 	<hr>
 
-	<section class="ftco-section">
+	<!-- <section class="ftco-section">
 		<div class="container">
 			<div class="row justify-content-center mb-5 pb-2">
 				<div class="col-md-8 text-center heading-section ftco-animate">
@@ -526,7 +485,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
 
 	<?php include 'footer.php'; ?>
