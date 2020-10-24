@@ -1,9 +1,51 @@
+/*Cores*/
+.titulos-life{
+    color: #02A6EC;
+}
+
 /*Default*/
 .btn.btn-primary:hover {
     border: 1px solid #3e64ff;
     background: #3e64ffa6;
     color: #fff;
 }
+
+.owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item {
+    -ms-touch-action: pan-y !important;
+    touch-action: pan-y !important;
+}
+
+.btn.btn-secondary.btn-enviar-home{
+    background: #02a6ec;
+    border: 1px solid #02A6EC;
+    color: #fff;
+}
+.btn.btn-secondary.btn-enviar-home:hover{
+    background: #4bb9e8;
+    border: 1px solid #4bb9e8;
+    color: #fff;
+}
+.btn.btn-primary.px-4.py-3.mt-3.btn-enviar-home{
+    background: #02a6ec;
+    border: 1px solid #02A6EC;
+    color: #fff;
+}
+.btn.btn-primary.px-4.py-3.mt-3.btn-enviar-home:hover{
+    background: #4bb9e8;
+    border: 1px solid #4bb9e8;
+    color: #fff;
+}
+.btn.btn-secondary.btn-enviar-home-form{
+    background: #17a3f5;
+    border: 1px solid #17a3f5;
+    color: #fff;
+}
+.btn.btn-secondary.btn-enviar-home-form:hover{
+    background: #4bb9e8;
+    border: 1px solid #4bb9e8;
+    color: #fff;
+}
+
 
 /*Home*/
 .owl-carousel.home-slider .slider-item {
@@ -15,12 +57,63 @@ select.form-control option{
     color: #fff;
 }
 
+.services .icon span {
+    color: #02A6EC!important;
+}
+
+
+
+.col-md-6.wrap-about.ftco-animate.py-md-5.pl-md-5.fadeInUp.ftco-animated {
+    padding-top: 55px!important;
+    padding-right: 20px!important;
+    padding-left: 20px!important;
+}
+
+figure.covid-img img {
+    width: 200px;
+}
+
+.tabulation-2 .nav-pills .nav-item .nav-link span{
+    color: #02A6EC;
+}
+
+@media (min-width: 992px){
+    .ftco-consult .consult-wrap {
+        background: #fff;
+    }
+}
+
+
 /*Header*/
 img.logo-header {
     width: 75%;
 }
 
+.ftco-navbar-light .navbar-nav > .nav-item.active > a{
+    background: #02A6EC!important;
+}
+
+li.nav-item:hover{
+    background: #02a6ec70!important;
+}
+
+.topper .icon span{
+    color:#02A6EC;
+}
 /*Footer*/
 figure img.logo-footer {
     width: 90%;
+}
+
+footer.ftco-footer.ftco-section{
+    background: #02A6EC;
+    padding: 50px 0 30px 0 
+}
+
+.ftco-footer p {
+    color: #fff;
+}
+
+.block-23 ul li span {
+    color: #fff;
 }

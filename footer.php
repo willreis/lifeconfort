@@ -1,6 +1,6 @@
-<footer class="ftco-footer ftco-bg-dark ftco-section">
+<footer class="ftco-footer ftco-section">
     <div class="container">
-        <div class="row mb-5">
+        <div class="row">
             <div class="col-md-6 col-lg-3">
                 <div class="ftco-footer-widget mb-5">
                     <h2 class="ftco-heading-2">Sobre Nós</h2>
@@ -37,48 +37,10 @@
                         <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
                         <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Quem Somos</a></li>
                         <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Serviços</a></li>
-                        <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contact</a></li>
+                        <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Contato</a></li>
                     </ul>
                 </div>
             </div>
-            <!-- <div class="col-md-6 col-lg-4">
-                <div class="ftco-footer-widget mb-5">
-                    <h2 class="ftco-heading-2">Mapa</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Oct. 16, 2019</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-5 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Oct. 16, 2019</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-            <!-- <div class="col-md-6 col-lg-3">
-                <div class="ftco-footer-widget mb-5">
-                    <h2 class="ftco-heading-2">Subscribe Us!</h2>
-                    <form action="#" class="subscribe-form">
-                        <div class="form-group">
-                            <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
-                            <input type="submit" value="Subscribe" class="form-control submit px-3">
-                        </div>
-                    </form>
-                </div>
-            </div> -->
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
