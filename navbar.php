@@ -9,7 +9,7 @@
             <ul class="navbar-nav mr-auto">
                 <li <?php if($paginaCorrente == 'index.php') {echo 'class="nav-item active"';}else{echo 'class="nav-item"';}?>><a href="index.php" class="nav-link">Home</a></li>
                 <li <?php if($paginaCorrente == 'sobre-nos.php') {echo 'class="nav-item active"';}else{echo 'class="nav-item"';}?>><a href="sobre-nos.php" class="nav-link">Sobre Nós</a></li>
-                <li class="nav-item"><a href="team.html" class="nav-link">Team</a></li>
+                <li <?php if($paginaCorrente == 'trituradores.php') {echo 'class="nav-item active"';}else{echo 'class="nav-item"';}?>><a href="trituradores.php" class="nav-link">Trituradores</a></li>
                 <li class="nav-item"><a href="project.html" class="nav-link">Case Studies</a></li>
                 <li <?php if($paginaCorrente == 'servicos.php') {echo 'class="nav-item active"';}else{echo 'class="nav-item"';}?>><a href="servicos.php" class="nav-link">Serviços</a></li>
                 <li <?php if($paginaCorrente == 'contato.php') {echo 'class="nav-item active"';}else{echo 'class="nav-item"';}?>><a href="contato.php" class="nav-link">Contato</a></li>

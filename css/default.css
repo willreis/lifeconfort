@@ -100,6 +100,12 @@ li.nav-item:hover{
 .topper .icon span{
     color:#02A6EC;
 }
+
+/*Quem Somos*/
+.box-quem-somos h3{
+    text-align: center;
+}
+
 /*Footer*/
 figure img.logo-footer {
     width: 90%;
@@ -116,4 +122,14 @@ footer.ftco-footer.ftco-section{
 
 .block-23 ul li span {
     color: #fff;
+}
+
+/*Contato*/
+.google-maps iframe {
+    width: 100%!important;
+    height: 350px!important;
+}
+
+section.ftco-section.contact-section {
+    padding-bottom: 20px;
 }

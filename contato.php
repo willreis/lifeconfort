@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <?php include 'head.php'; ?>
 
 <body>
@@ -9,13 +9,12 @@
   ?>
   <!-- END nav -->
 
-  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('images/contato/bg-contato.jpg');">
     <div class="overlay"></div>
     <div class="container">
       <div class="row no-gutters slider-text align-items-center justify-content-center">
         <div class="col-md-9 ftco-animate text-center">
-          <h1 class="mb-2 bread">Contact</h1>
-          <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Contact <i class="ion-ios-arrow-forward"></i></span></p>
+          <h1 class="mb-2 bread">Contato</h1>
         </div>
       </div>
     </div>
@@ -23,7 +22,7 @@
 
   <section class="ftco-section contact-section">
     <div class="container">
-      <div class="row d-flex mb-5 contact-info justify-content-center">
+      <div class="row d-flex contact-info justify-content-center">
         <div class="col-md-10">
           <div class="row mb-5">
             <div class="col-md-4 text-center d-flex">
@@ -31,15 +30,15 @@
                 <div class="icon">
                   <span class="icon-map-o"></span>
                 </div>
-                <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p><span>Endereço:</span> Rua Progresso, 107 - Santa Terezinha - São Bernardo do Campo - SP</p>
               </div>
             </div>
             <div class="col-md-4 text-center d-flex">
               <div class="border w-100 p-4">
                 <div class="icon">
-                  <span class="icon-tablet"></span>
+                  <span class="icon-phone"></span>
                 </div>
-                <p><span>Phone:</span> <a href="tel://1234567920">Call us: + 1235 2355 98</a></p>
+                <p><span>Telefone:</span> <a href="tel://+551149012717" title="Telefone Life Confort">(11) 4901-2717</a></p>
               </div>
             </div>
             <div class="col-md-4 text-center d-flex">
@@ -47,30 +46,30 @@
                 <div class="icon">
                   <span class="icon-envelope-o"></span>
                 </div>
-                <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+                <p><span>Email:</span> <a href="assistência@lifeconfort.com.br" title="Email Assistencia Life Confort">assistência@lifeconfort.com.br</a></p>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="row block-9 justify-content-center mb-5">
-        <div class="col-md-10 mb-md-5">
-          <h2 class="text-center">If you got any questions <br>please do not hesitate to send us a message</h2>
+        <div class="col-md-10">
+          <h2 class="text-center">Solicite um orçamento com nossa equipe</h2>
           <form action="#" class="border p-5 contact-form">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your Name">
+              <input type="text" class="form-control" name="nome" placeholder="Nome">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Your Email">
+              <input type="text" class="form-control" name="email" placeholder="Email">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Subject">
+              <input type="text" class="form-control" name="assunto" placeholder="Assunto">
             </div>
             <div class="form-group">
-              <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+              <textarea name="" id="" cols="30" rows="7" class="form-control" name="mensagem" placeholder="Mensagem"></textarea>
             </div>
             <div class="form-group">
-              <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+              <input type="submit" value="Enviar" class="btn btn-primary py-3 px-5">
             </div>
           </form>
 
@@ -83,7 +82,9 @@
     <div class="container-fluid px-0">
       <div class="row justify-content-center">
         <div class="col-md-12">
-          <div id="map" class="bg-white"></div>
+          <div class="google-maps">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.8456386118582!2d-46.542754785019376!3d-23.717205784605763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce419185acbba3%3A0x1b3ed02ed4e7b9b8!2sR.%20Progresso%2C%20107%20-%20Santa%20Terezinha%2C%20S%C3%A3o%20Bernardo%20do%20Campo%20-%20SP%2C%2009780-130!5e0!3m2!1spt-BR!2sbr!4v1603937112433!5m2!1spt-BR!2sbr" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+          </div>
         </div>
       </div>
     </div>
@@ -110,8 +111,6 @@
   <script src="js/aos.js"></script>
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
 
 </body>

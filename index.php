@@ -45,7 +45,7 @@
 						<div class="col-md-7 ftco-animate mb-md-5">
 							<span class="subheading">Higienização</span>
 							<h1 class="mb-4">Prevenção de doenças respiratórias</h1>
-							<span class="subheading">Fungos, ácaros e bactérias</span>
+							<span class="subheading">Causadas por fungos, ácaros e bactérias</span>
 							<p><a href="#" class="btn btn-primary px-4 py-3 mt-3 btn-enviar-home">Saiba Mais</a></p>
 						</div>
 					</div>
@@ -200,18 +200,7 @@
 	</section>
 
 
-	<section class="ftco-intro ftco-no-pb img" style="background-image: url(images/bg_1.jpg);">
-		<div class="container">
-			<div class="row justify-content-center">
-				<div class="col-lg-9 col-md-8 d-flex align-items-center heading-section heading-section-white ftco-animate">
-					<h2 class="mb-3 mb-md-0">Quer saber mais sobre nossos serviços?</h2>
-				</div>
-				<div class="col-lg-3 col-md-4 ftco-animate">
-					<p class="mb-0"><a href="#" class="btn btn-secondary py-3 px-4 btn-enviar-home">Fale Conosco</a></p>
-				</div>
-			</div>
-		</div>
-	</section>
+	<?php include 'cta.php'; ?>
 
 	<?php include 'footer.php'; ?>
 
