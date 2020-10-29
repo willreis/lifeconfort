@@ -60,18 +60,18 @@
 				<div class="col-md-5 wrap-about align-items-stretch d-flex">
 					<div class="ftco-animate bg-primary align-self-stretch px-4 py-5 w-100">
 						<h2 class="heading-white mb-4">Faça um orçamento</h2>
-						<form action="#" class="appointment-form ftco-animate">
+						<form action="envia-form-home.php" method="post" class="appointment-form ftco-animate">
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Nome">
+								<input type="text" name="nome" class="form-control" placeholder="Nome">
 							</div>
 							<div class="form-group">
-								<input type="email" class="form-control" placeholder="Email">
+								<input type="email" name="email" class="form-control" placeholder="Email">
 							</div>
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Telefone">
+								<input type="text" name="telefone" class="form-control" placeholder="Telefone">
 							</div>
 							<div class="form-group">
-								<textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem"></textarea>
+								<textarea name="mensagem" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem"></textarea>
 							</div>
 							<div class="form-group">
 								<input type="submit" value="ENVIAR" class="btn btn-secondary py-3 px-4 btn-enviar-home-form">

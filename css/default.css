@@ -10,6 +10,13 @@
     color: #fff;
 }
 
+.btn-float-whats {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 9999;
+}
+
 .owl-carousel .owl-stage, .owl-carousel.owl-drag .owl-item {
     -ms-touch-action: pan-y !important;
     touch-action: pan-y !important;
@@ -104,6 +111,16 @@ li.nav-item:hover{
 /*Quem Somos*/
 .box-quem-somos h3{
     text-align: center;
+}
+
+/*Ar-condicionados*/
+.marcas-ar-condicionado figure img {
+    width: 100%;
+}
+
+/*Trituradores*/
+.img-trituradores img {
+    width: 100%;
 }
 
 /*Footer*/

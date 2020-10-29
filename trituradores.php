@@ -31,27 +31,69 @@
                     <div class="heading-section mb-4">
                         <h2>Trituradores</h2>
                     </div>
-                    <p>A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na Instalação, corte cuba pia, Manutenção e assistência técnica do seu triturador.</p>
+                    <p>A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na Instalação, corte em cuba de pia, manutenção e assistência técnica do seu triturador.</p>
                     <p>Através da Excelência, proporcionamos ao cliente segurança na Instalação e rapidez na manutenção, oferecendo um serviço diferencial, através de técnicos altamente treinados.</p>
                     <p>
                         Trabalhamos no segmento residencial, semi industrial, industrial e com todas as marcas existentes no mercado.
                     </p>
-                    <div style="display:flex">
-                        <figure>
-                            <img src="images/trituradores/insink.png" alt="">
-                        </figure>
-                        <figure>
-                            <img src="images/trituradores/tramontina.png" alt="">
-                        </figure>
-                        <figure>
-                            <img src="images/trituradores/trytury.png" alt="">
-                        </figure>
-                        <figure>
-                            <img src="images/trituradores/ge.png" alt="">
-                        </figure>
+                    <div class="row">
+
+                        <div class="col-md-4">
+                            <figure>
+                                <img src="images/trituradores/insink.png" alt="">
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure>
+                                <img src="images/trituradores/tramontina.png" alt="">
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure>
+                                <img src="images/trituradores/trytury.png" alt="">
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure>
+                                <img src="images/trituradores/ge.png" alt="">
+                            </figure>
+                        </div>
+                        <div class="col-md-4">
+                            <figure>
+                                <img src="images/trituradores/franke.png" alt="">
+                            </figure>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="img-trituradores">
+                        <img src="images/trituradores/img-triturador1.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="img-trituradores">
+                        <img src="images/trituradores/img-triturador2.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="img-trituradores">
+                        <img src="images/trituradores/img-triturador5.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="img-trituradores">
+                        <img src="images/trituradores/img-triturador6.jpg" alt="">
                     </div>
                 </div>
             </div>
+
+        </div>
+        <div class="container consult-wrap">
+
         </div>
     </section>
     <?php include 'cta.php'; ?>

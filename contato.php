@@ -55,7 +55,7 @@
       <div class="row block-9 justify-content-center mb-5">
         <div class="col-md-10">
           <h2 class="text-center">Solicite um orçamento com nossa equipe</h2>
-          <form action="#" class="border p-5 contact-form">
+          <form action="envia-form.php" method="POST" class="border p-5 contact-form">
             <div class="form-group">
               <input type="text" class="form-control" name="nome" placeholder="Nome">
             </div>
@@ -63,10 +63,10 @@
               <input type="text" class="form-control" name="email" placeholder="Email">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="assunto" placeholder="Assunto">
+              <input type="text" class="form-control" name="telefone" placeholder="Telefone">
             </div>
             <div class="form-group">
-              <textarea name="" id="" cols="30" rows="7" class="form-control" name="mensagem" placeholder="Mensagem"></textarea>
+              <textarea id="" cols="30" rows="7" class="form-control" name="mensagem" placeholder="Mensagem"></textarea>
             </div>
             <div class="form-group">
               <input type="submit" value="Enviar" class="btn btn-primary py-3 px-5">
