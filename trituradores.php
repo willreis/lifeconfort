@@ -10,7 +10,7 @@
     ?>
     <!-- END nav -->
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/trituradores/trituradores-bg1.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/trituradores/bg1.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -31,11 +31,17 @@
                     <div class="heading-section mb-4">
                         <h2>Trituradores</h2>
                     </div>
-                    <p>A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na Instalação, corte em cuba de pia, manutenção e assistência técnica do seu triturador.</p>
-                    <p>Através da Excelência, proporcionamos ao cliente segurança na Instalação e rapidez na manutenção, oferecendo um serviço diferencial, através de técnicos altamente treinados.</p>
+                    <p>
+                        A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na Instalação, corte em cuba de pia, manutenção e assistência técnica do seu triturador.
+                    </p>
+                    <p>
+                        Através da Excelência, proporcionamos ao cliente segurança na Instalação e rapidez na manutenção, oferecendo um serviço diferencial.
+                    </p>
                     <p>
                         Trabalhamos no segmento residencial, semi industrial, industrial e com todas as marcas existentes no mercado.
                     </p>
+
+
                     <div class="row">
 
                         <div class="col-md-4">
@@ -69,7 +75,7 @@
 
             </div>
             <div class="row">
-                <div class="col-md-3">
+                <!-- <div class="col-md-3">
                     <div class="img-trituradores">
                         <img src="images/trituradores/img-triturador1.jpg" alt="">
                     </div>
@@ -78,7 +84,7 @@
                     <div class="img-trituradores">
                         <img src="images/trituradores/img-triturador2.jpg" alt="">
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-3">
                     <div class="img-trituradores">
                         <img src="images/trituradores/img-triturador5.jpg" alt="">
@@ -89,12 +95,15 @@
                         <img src="images/trituradores/img-triturador6.jpg" alt="">
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="text-case">
+                        <p>Seu triturador travou ou parou de funcionar, chame a life confort e realizaremos o trabalho com diferencial e rapidez.</p>
+                    </div>
+                </div>
             </div>
 
         </div>
-        <div class="container consult-wrap">
-
-        </div>
+        
     </section>
     <?php include 'cta.php'; ?>
     <?php include 'footer.php'; ?>

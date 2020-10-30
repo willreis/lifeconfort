@@ -32,19 +32,16 @@
                         <h2>Ar Condicionado</h2>
                     </div>
                     <p>
-                        O ar-condicionado e um conforto agradável, mas sem uma limpeza eficaz e uma higienização periódica, pode proporcionar doenças graves à nossa saúde.
+                        O ar-condicionado e um conforto agradável, porém sem uma limpeza eficaz e uma higienização periódica, pode proporcionar doenças graves à nossa saúde.
                     </p>
                     <p>
-                        A falta de limpeza e higienização do ar condicionado é um dos principais responsáveis pela proliferação de fungos, ácaros e bactérias, causando mau cheiro no ambiente, doenças respiratórias, rinite, sinusite, alergias entre outras.
+                        A falta de limpeza e higienização do ar-condicionado é um dos principais responsáveis pela proliferação de fungos, ácaros e bactérias, causando mau cheiro no ambiente, doenças respiratórias, rinite, sinusite, alergias entre outras. Somente a limpeza e higienização superficial através de borrifamento de produtos, não é eficaz.
                     </p>
                     <p>
-                        Somente a limpeza superficial através de borrifamento de produtos, não é eficaz para eliminação dos fungos, bactérias e ácaros.
+                        A LIFE CONFORT executa o método de limpeza e higienização do ser ar condicionado, através do sistema de vaporização à quente, uma lavagem à frio pressurizada e produtos químicos como Bio Det®, Bio Bac® na parte interna do vaporizador e cera mágica na parte externa, sem sujeira e sem danificar, garantindo 99,9 % na eficácia, proporcionando um ambiente saudável e ar puro. Dispomos também de um sistema fechado de saco coletor e recipiente para descarte dos resíduos.
                     </p>
                     <p>
-                        A LIFE CONFORT Executa o método de limpeza e higienização do ser ar condicionado, através do sistema de vaporizadora à quente garantindo uma eficácia na limpeza, uma lavagem à frio pressurizada e produtos químicos como Bio Det®, Bio Bac® e cera mágica na parte externa do aparelho, sem sujeira e sem danificar seu aparelho, através de Sacos Coletores®, Coletores de Resíduos®, garantindo 99,9 % na eficiência da eliminação de fungos, ácaros e bactérias, proporcionando um ambiente saudável e ar puro.
-                    </p>
-                    <p>
-                        Além disso, com esse método restauramos a capacidade de refrigeração do aparelho, reduzindo consumo de energia e custos de manutenção, aumentando a vida útil do equipamento.
+                        Com esse método restauramos também a capacidade de seu aparelho, reduzindo consumo de energia e custos de manutenção, aumentando a vida útil do equipamento.
                     </p>
 
                 </div>
@@ -57,7 +54,31 @@
                         </figure>
                     </div>
                 </div>
-
+            </div>
+            <div class="row d-flex align-items-stretch">
+                <div class="col-md-12">
+                    <div class="titulo-formasPagamento">
+                        <h2>Formas de Pagamento</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row d-flex align-items-stretch">
+                <div class="col-md-6">
+                    <p class="title-pagamentos">Aceitamos diversos cartões</p>
+                    <div class="img-cartoes">
+                        <figure>
+                            <img src="images/default/formas-depagamento1.jpg" alt="">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p class="title-pagamentos">Transferência Bancária</p>
+                    <div style="text-align:center">
+                        <figure>
+                            <img src="images/default/bancos.png" alt="">
+                        </figure>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

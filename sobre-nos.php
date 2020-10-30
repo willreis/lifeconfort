@@ -21,32 +21,23 @@
     </div>
   </section>
 
-  <section class="ftco-section ftco-about ftco-no-pt ftco-no-pb ftco-counter" id="section-counter">
+  <section class="ftco-section ftco-about ftco-no-pt ftco-no-pb ftco-counter" id="section-counter" style="margin-top: 35px;">
     <div class="container consult-wrap">
       <div class="row d-flex align-items-stretch">
         <div class="col-md-6 wrap-about align-items-stretch d-flex">
-          <div class="img" style="background-image: url(images/about.jpg);"></div>
+          <div class="img" style="background-image: url(images/sobre-nos/img-destaque1.png);"></div>
         </div>
         <div class="col-md-6 wrap-about ftco-animate py-md-5 pl-md-5">
           <div class="heading-section mb-4">
             <h2>Somos a <span class="titulos-life">Life Confort</span></h2>
           </div>
-          <p>A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada com técnicos altamente treinados na instalação de ar condicionado, higienização e trituradores em geral.</p>
-          <p>Fazemos com excelência a Instalação, limpeza e higienização do seu ar condicionado e cuidamos de toda infra-estrutura na Instalação, corte cuba pia e manutenção do seu triturador.</p>
-          <p>Nossos técnicos seguem rigorosamente normas, procedimentos e uso E.P.I´s para execução dos serviços,
-            conforme revisão R-09 da Anvisa .
+          <p>
+            A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na instalação de ar-condicionado, higienização e trituradores em geral.
           </p>
           <p>
-            <h3 class="titulos-life"><span class="ion-ios-home mr-2"></span> Missão</h3>
-            <p>Oferecer produtos e prestação de serviço com qualidade, rapidez e garantia.</p>
+            Fazemos com excelência a Instalação, limpeza e higienização do seu ar-condicionado e cuidamos de toda infraestrutura na Instalação e manutenção do seu triturador.
           </p>
-          <p>
-            <h3 class="titulos-life"><span class="ion-ios-person mr-2"></span> Visão</h3>
-            <p>Ser a melhor empresa na prestação de serviços de ar condicionado e trituradores, buscando tecnologias e excelência no atendimento, através de treinamento dos nossos colaboradores.</p>
-          </p>
-          <p>
-            <h3 class="titulos-life"><span class="ion-ios-mail mr-2"></span> Valores</h3>
-            <p>Buscar um desenvolvimento sustentável através da ética, transparência e responsabilidade social.</p>
+          <p>Nossos técnicos seguem rigorosamente normas, procedimentos e uso E.P.I´s para execução dos serviços, conforme normas da Anvisa.
           </p>
         </div>
       </div>
