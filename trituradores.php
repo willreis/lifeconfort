@@ -10,7 +10,7 @@
     ?>
     <!-- END nav -->
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/trituradores/bg1.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/trituradores/trituradores-bg1.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row no-gutters slider-text align-items-center justify-content-center">
@@ -97,7 +97,9 @@
                 </div>
                 <div class="col-md-6">
                     <div class="text-case">
-                        <p>Seu triturador travou ou parou de funcionar, chame a life confort e realizaremos o trabalho com diferencial e rapidez.</p>
+                        <p>
+                            Seu triturador travou ou parou de funcionar? Chame a life confort e realizaremos o trabalho com diferencial e rapidez.
+                        </p>
                     </div>
                 </div>
             </div>

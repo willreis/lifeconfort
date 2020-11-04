@@ -85,9 +85,11 @@
 						<span class="subheading">Bem vindos a</span>
 						<h2 class="titulos-life">Life Confort</h2>
 					</div>
-					<p>A LIFE CONFORT é uma empresa especializada em instalação, higienização de ar condicionado e manutenção de trituradores em geral.</p>
 					<p>
-						Nossa equipe conta com técnicos altamente treinados que seguem rigorosamente normas, procedimentos, conforme revisão R-09 da Anvisa, garantindo a qualidade e eficiencia dos nossos serviços.
+						A LIFE CONFORT é uma empresa especializada em instalação, higienização de ar condicionado e manutenção de trituradores em geral.
+					</p>
+					<p>
+						Nossa equipe conta com técnicos altamente treinados que seguem rigorosamente normas da Anvisa, garantindo a qualidade e eficácia dos nossos serviços.
 					</p>
 					<div class="tabulation-2 mt-4">
 						<ul class="nav nav-pills nav-fill d-md-flex d-block">

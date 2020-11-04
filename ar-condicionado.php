@@ -38,7 +38,7 @@
                         A falta de limpeza e higienização do ar-condicionado é um dos principais responsáveis pela proliferação de fungos, ácaros e bactérias, causando mau cheiro no ambiente, doenças respiratórias, rinite, sinusite, alergias entre outras. Somente a limpeza e higienização superficial através de borrifamento de produtos, não é eficaz.
                     </p>
                     <p>
-                        A LIFE CONFORT executa o método de limpeza e higienização do ser ar condicionado, através do sistema de vaporização à quente, uma lavagem à frio pressurizada e produtos químicos como Bio Det®, Bio Bac® na parte interna do vaporizador e cera mágica na parte externa, sem sujeira e sem danificar, garantindo 99,9 % na eficácia, proporcionando um ambiente saudável e ar puro. Dispomos também de um sistema fechado de saco coletor e recipiente para descarte dos resíduos.
+                        A LIFE CONFORT executa o método de limpeza e higienização do seu ar condicionado, através do sistema de vaporização à quente, uma lavagem à frio pressurizada e produtos químicos como Bio Det®, Bio Bac® na parte interna do vaporizador e cera mágica na parte externa, sem sujeira e sem danificar, garantindo 99,9 % na eficácia, proporcionando um ambiente saudável e ar puro. Dispomos também de um sistema fechado de saco coletor e recipiente para descarte dos resíduos.
                     </p>
                     <p>
                         Com esse método restauramos também a capacidade de seu aparelho, reduzindo consumo de energia e custos de manutenção, aumentando a vida útil do equipamento.

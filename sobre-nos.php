@@ -32,12 +32,13 @@
             <h2>Somos a <span class="titulos-life">Life Confort</span></h2>
           </div>
           <p>
-            A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na instalação de ar-condicionado, higienização e trituradores em geral.
+            A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na instalação e higienização de ar condicionado, instalação e manutenção de trituradores em geral.
           </p>
           <p>
             Fazemos com excelência a Instalação, limpeza e higienização do seu ar-condicionado e cuidamos de toda infraestrutura na Instalação e manutenção do seu triturador.
           </p>
-          <p>Nossos técnicos seguem rigorosamente normas, procedimentos e uso E.P.I´s para execução dos serviços, conforme normas da Anvisa.
+          <p>
+            Nossos técnicos seguem rigorosamente procedimentos, quanto ao uso uso de E.P.I´s para execução dos serviços, conforme normas da Anvisa.
           </p>
         </div>
       </div>
