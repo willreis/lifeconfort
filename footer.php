@@ -10,7 +10,7 @@
                     <figure>
                         <img class="logo-footer" src="images/default/LifeConfort-Branco.png" alt="">
                     </figure>
-                    <p>A LIFE CONFORT é uma empresa especializada com técnicos altamente treinados na instalação e higienização de ar condicionado e instalação e manutenção trituradores em geral.</p>
+                    <p>A LIFE CONFORT é uma empresa especializada na instalação e higienização de ar condicionado e instalação e manutenção trituradores em geral.</p>
                 </div>
             </div>
             <div class="col-lg-1"></div>

@@ -62,16 +62,16 @@
 						<h2 class="heading-white mb-4">Faça um orçamento</h2>
 						<form action="envia-form-home.php" method="post" class="appointment-form ftco-animate">
 							<div class="form-group">
-								<input type="text" name="nome" class="form-control" placeholder="Nome">
+								<input type="text" name="nome" class="form-control" placeholder="Nome" required>
 							</div>
 							<div class="form-group">
-								<input type="email" name="email" class="form-control" placeholder="Email">
+								<input type="email" name="email" class="form-control" placeholder="Email" required>
 							</div>
 							<div class="form-group">
-								<input type="text" name="telefone" class="form-control" placeholder="Telefone">
+								<input type="tel" name="telefone" class="form-control" placeholder="Telefone" required>
 							</div>
 							<div class="form-group">
-								<textarea name="mensagem" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem"></textarea>
+								<textarea name="mensagem" id="" cols="30" rows="2" class="form-control" placeholder="Mensagem" required></textarea>
 							</div>
 							<div class="form-group">
 								<input type="submit" value="ENVIAR" class="btn btn-secondary py-3 px-4 btn-enviar-home-form">
@@ -141,7 +141,7 @@
 				</div>
 				<div class="col-md-6 wrap-about ftco-animate align-items-stretch d-flex">
 					<div class="bg-white" style="padding: 20px 0 0 5px;">
-						<h2 class="mb-4">Conforto e a qualidade de vida é com a <span class="titulos-life">Life Confort</span></h2>
+						<h2 class="mb-4">Conforto e qualidade de vida é com a <span class="titulos-life">Life Confort</span></h2>
 						<div class="row">
 							<div class="col-lg-6">
 								<div class="services">

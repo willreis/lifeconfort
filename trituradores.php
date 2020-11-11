@@ -98,7 +98,7 @@
                 <div class="col-md-6">
                     <div class="text-case">
                         <p>
-                            Seu triturador travou ou parou de funcionar? Chame a life confort e realizaremos o trabalho com diferencial e rapidez.
+                            Seu triturador travou ou parou de funcionar? Chame a Life Confort e realizaremos o trabalho com diferencial e rapidez.
                         </p>
                     </div>
                 </div>

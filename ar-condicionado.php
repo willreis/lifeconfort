@@ -25,17 +25,20 @@
         <div class="container consult-wrap">
             <div class="row d-flex align-items-stretch">
                 <div class="col-md-6 wrap-about align-items-stretch d-flex">
-                    <div class="img" style="background-image: url(images/ar-condicionado/img-ar-condicionado2.jpg);     background-position: right center;"></div>
+                    <div class="img bg-ar-condicionado-destaque"></div>
                 </div>
-                <div class="col-md-6 wrap-about ftco-animate py-md-5 pl-md-5">
+                <div class="col-md-6 wrap-about ftco-animate py-md-5 pl-md-5" style="padding-top:10px!important; padding-bottom: 10px!important;">
                     <div class="heading-section mb-4">
                         <h2>Ar Condicionado</h2>
                     </div>
                     <p>
-                        O ar-condicionado e um conforto agradável, porém sem uma limpeza eficaz e uma higienização periódica, pode proporcionar doenças graves à nossa saúde.
+                        O ar condicionado e um conforto agradável, porém sem uma limpeza eficaz e uma higienização periódica, pode proporcionar doenças graves à nossa saúde.
                     </p>
                     <p>
-                        A falta de limpeza e higienização do ar-condicionado é um dos principais responsáveis pela proliferação de fungos, ácaros e bactérias, causando mau cheiro no ambiente, doenças respiratórias, rinite, sinusite, alergias entre outras. Somente a limpeza e higienização superficial através de borrifamento de produtos, não é eficaz.
+                        A falta de limpeza e higienização do ar condicionado é um dos principais responsáveis pela proliferação de fungos, ácaros e bactérias, causando mau cheiro no ambiente, doenças respiratórias, rinite, sinusite, alergias entre outras. Somente a limpeza e higienização superficial através de borrifamento de produtos, não é eficaz.
+                    </p>
+                    <p>
+                        A partir da <a href="https://www12.senado.leg.br/noticias/audios/2018/01/lei-obriga-manutencao-de-ar-condicionado-de-predios-publicos-e-coletivos" target="blank">lei Nº 13.589</a>, tornou-se obrigatório a higienização periódica em ambientes de uso público, coletivo e ambientes que tem sistemas de climatização, com certificado de garantia.
                     </p>
                     <p>
                         A LIFE CONFORT executa o método de limpeza e higienização do seu ar condicionado, através do sistema de vaporização à quente, uma lavagem à frio pressurizada e produtos químicos como Bio Det®, Bio Bac® na parte interna do vaporizador e cera mágica na parte externa, sem sujeira e sem danificar, garantindo 99,9 % na eficácia, proporcionando um ambiente saudável e ar puro. Dispomos também de um sistema fechado de saco coletor e recipiente para descarte dos resíduos.
@@ -44,8 +47,14 @@
                         Com esse método restauramos também a capacidade de seu aparelho, reduzindo consumo de energia e custos de manutenção, aumentando a vida útil do equipamento.
                     </p>
 
+                    <div class="text-case-ar-condicionado">
+                        <p>
+                            NÃO CORRA RISCO, FAÇA A HIGIENIZAÇÃO PERIÓDICA CONFORME LEGISLAÇÃO VIGENTE, CONTRATE A LIFE CONFORT, VOCÊ MERECE O MELHOR!<br>
+                        </p>
+                    </div>
                 </div>
             </div>
+
             <div class="row d-flex align-items-stretch">
                 <div class="col-md-12">
                     <div class="marcas-ar-condicionado">

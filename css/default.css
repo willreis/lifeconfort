@@ -138,6 +138,19 @@ p.title-pagamentos {
     padding-bottom: 20px;
 }
 
+.text-case-ar-condicionado {
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.bg-ar-condicionado-destaque{
+    background-image: url(../images/ar-condicionado/img-ar-condicionado2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover!important;
+    background-position: 88% 0%!important;
+}
+
+
 /*Trituradores*/
 .img-trituradores img {
     width: 100%;

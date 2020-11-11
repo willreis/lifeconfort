@@ -35,10 +35,10 @@
             A <span class="titulos-life">LIFE CONFORT</span> é uma empresa especializada na instalação e higienização de ar condicionado, instalação e manutenção de trituradores em geral.
           </p>
           <p>
-            Fazemos com excelência a Instalação, limpeza e higienização do seu ar-condicionado e cuidamos de toda infraestrutura na Instalação e manutenção do seu triturador.
+            Fazemos com excelência a Instalação, limpeza e higienização do seu ar condicionado e cuidamos de toda infraestrutura na Instalação e manutenção do seu triturador.
           </p>
           <p>
-            Nossos técnicos seguem rigorosamente procedimentos, quanto ao uso uso de E.P.I´s para execução dos serviços, conforme normas da Anvisa.
+            Nossos técnicos seguem rigorosamente procedimentos, quanto ao uso de E.P.I´s para execução dos serviços, conforme normas da Anvisa.
           </p>
         </div>
       </div>
